@@ -1,5 +1,4 @@
 html{
-   
 }
 
 .header_background{
@@ -18,20 +17,22 @@ header{
 .logofalc {
     margin: 0;
     display: block;
-    height: 217px;
+    height: 162px;
     width: 204px;
 }
 
 .titreheader{
     align-self: center;
     flex-basis: 100%;
-    margin-left: 500px;
+    padding-left: 0 500px;
     color: white;
     line-height: 2;
-    font-family: "The Antiqua B",Georgia,Droid-serif,serif;
-    font-size: 25px;
+    font-family: Verdana;
+    font-size: 2vw;
 }
-    
+
+
 body{
     margin: 0;
 }
+
