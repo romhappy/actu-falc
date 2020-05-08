@@ -1,24 +1,23 @@
 html{
+    background-image: linear-gradient(to right top, #0a1396, #005fc8, #0099d7, #47cdda, #c5fcee);    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.header_background{
-    display: flex;
-    background-color: radial-gradient(circle, #0a1396, #FFF, #A0ADFF, #565FAA, #0F0F4E);;
+body{
+    margin-top: 0;
 }
+
 header{
     display: flex;
-    width: 1200px;
-    background-color: #0a1396   ;
-    margin: auto;
-    box-shadow: 2px 22px 48px 17px #b7b7b7;
-    border-radius: 86px;
+    background-image: linear-gradient(to right, #0a1396, #0a1396, #0e89c7, #5de3f0, #c5fcee);
 }
 
 
 .logofalc {
     margin: 0;
     display: block;
-    
 }
 
 .titreheader{
@@ -30,8 +29,23 @@ header{
     font-size: 25px;
 }
 
-
-body{
-    margin: 0;
+.subtitreheader{
+    align-self: center;
+    padding-left: 100px;
+    color: white;
+    line-height: 2;
+    font-family: Verdana;
+    font-size: 25px;
 }
 
+main{
+    background-color: blanchedalmond;
+    width: 1200px;
+    height: 500vh;
+    margin: 0 auto;
+
+}
+
+p,h1{
+    margin:0;
+}
