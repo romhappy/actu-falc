@@ -23,12 +23,11 @@ header{
 
 .titreheader{
     align-self: center;
-    flex-basis: 100%;
-    padding-left: 0 500px;
+    padding-left: 100px;
     color: white;
     line-height: 2;
     font-family: Verdana;
-    font-size: 2vw;
+    font-size: 25px;
 }
 
 
