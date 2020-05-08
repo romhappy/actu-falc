@@ -1,0 +1,37 @@
+html{
+   
+}
+
+.header_background{
+    display: flex;
+    background-color: #191C9F;
+}
+header{
+    display: flex;
+    width: 1200px;
+    background-color: #0a1396   ;
+    margin: auto;
+    box-shadow: -1px -13px 51px 37px #00000060;
+}
+
+
+.logofalc {
+    margin: 0;
+    display: block;
+    height: 217px;
+    width: 204px;
+}
+
+.titreheader{
+    align-self: center;
+    flex-basis: 100%;
+    margin-left: 500px;
+    color: white;
+    line-height: 2;
+    font-family: "The Antiqua B",Georgia,Droid-serif,serif;
+    font-size: 25px;
+}
+    
+body{
+    margin: 0;
+}
