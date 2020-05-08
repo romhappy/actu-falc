@@ -3,14 +3,15 @@ html{
 
 .header_background{
     display: flex;
-    background-color: #191C9F;
+    background-color: radial-gradient(circle, #0a1396, #FFF, #A0ADFF, #565FAA, #0F0F4E);;
 }
 header{
     display: flex;
     width: 1200px;
     background-color: #0a1396   ;
     margin: auto;
-    box-shadow: -1px -13px 51px 37px #00000060;
+    box-shadow: 2px 22px 48px 17px #b7b7b7;
+    border-radius: 86px;
 }
 
 
