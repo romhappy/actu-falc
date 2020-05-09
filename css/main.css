@@ -1,22 +1,23 @@
 html{
-    background-image: linear-gradient(to right top, #0a1396, #005fc8, #0099d7, #47cdda, #c5fcee);    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+background-color: #acc7dc;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 body{
-    margin-top: 0;
+    margin: 0;
 }
 
 header{
     display: flex;
-    background-image: linear-gradient(to right, #0a1396, #0a1396, #0e89c7, #5de3f0, #c5fcee);
+    background-color: #acc7dc;
+    box-shadow: 0px -9px 10px 10px white;
 }
 
 
 .logofalc {
-    margin: 0;
+    margin: 10px 0 10px 10px;
     display: block;
 }
 
@@ -39,10 +40,10 @@ header{
 }
 
 main{
-    background-color: blanchedalmond;
+    background-color: white;
     width: 1200px;
     height: 500vh;
-    margin: 0 auto;
+    margin: 50px auto;
 
 }
 
