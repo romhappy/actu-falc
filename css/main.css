@@ -52,15 +52,13 @@ li{
 }
 
 main{
-    width:1200px;
     margin: auto;
 }
 .disclaimer{
-    display:block;
-    font-size: 25px;
-    line-height: 2;
+    display: flex;
+    font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));    line-height: 2;
     margin:150px auto;
-    width: 1200px;
+    max-width: 800px;
 }
 
 
@@ -80,7 +78,7 @@ main{
         flex-basis: 100%;
         border-top:1px solid black;
         padding: 10px 0;
-        margin: 0;
+        margin: 0 10px;
 
     }
 
@@ -92,6 +90,12 @@ main{
     .disclaimer{
         line-height: 1.5;
         font-size: 16px;
+        margin:50px 10px;
         
+    }
+
+    .logofalc{
+        width: 40px;
+        height: 40px;
     }
          }
