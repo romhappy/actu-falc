@@ -179,4 +179,9 @@ footer{
         justify-items: center;
         margin:0;
     }
+
+    .logo1,.logo2{
+        padding-top: 15px;
+    }
+    
          }
