@@ -67,6 +67,27 @@ a{
     color: black;
 }
 
+article{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:50px 80px;  
+   
+}
+
+h1{
+    flex-basis: 100%;
+    margin-left: 105px;
+}
+
+.imagesite{
+    align-self: flex-start;
+}
+
+p{
+    padding:20px;
+}
+
 footer{
     border-top: 1px solid #DCDCD7;
 }
