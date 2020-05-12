@@ -25,7 +25,9 @@ header{
 }
 
 .logotitle{
-    margin:20px 0 20px 20px;
+    margin:20px 20px 20px 20px;
+    height:auto;
+    width:100%;
 }
 
 
@@ -157,14 +159,11 @@ footer{
     }
 
     .logofalc{
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 
-    .logotitle{
-        width:150px;
-        height:40px;
-    }
+    
 
     main{
         margin:20px;
