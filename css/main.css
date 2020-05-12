@@ -172,9 +172,8 @@ footer{
     article{
         display:grid;
         grid-template-areas: 
-                "img"
-                "logo1"
-                "logo2";
+                "img img"
+                "logo1 logo2";
         justify-items: center;
         margin:0;
     }
