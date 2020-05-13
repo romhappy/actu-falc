@@ -75,7 +75,7 @@ article{
     grid-template-areas:
            "logo1 img"
            "logo2 img";
-    margin:150px 80px;  
+    margin:0 80px 150px 80px;  
     border-top: 2px solid #B3B3AE;
     border-bottom: 1px solid #B3B3AE;
     padding:40px 0;
@@ -90,7 +90,7 @@ article{
     width:100%;
     min-width: 150px;
     height: auto;
-    max-width: 1000px;
+    max-width: 600px;
 }
 
 .logo1{
@@ -117,8 +117,9 @@ article{
 
 
 h1{
-    margin: 70px 0;
-    font-size: 20px;
+    margin: 150px 80px 0 80px;
+    font-size: 22px;
+    
 }
 
 .mail{
