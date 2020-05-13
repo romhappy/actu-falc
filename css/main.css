@@ -90,7 +90,7 @@ article{
     width:100%;
     min-width: 150px;
     height: auto;
-    max-width: 600px;
+    max-width: 1000px;
 }
 
 .logo1{
@@ -119,6 +119,11 @@ article{
 h1{
     margin: 70px 0;
     font-size: 20px;
+}
+
+.mail{
+    display: block;
+    margin:150px auto;
 }
 
 footer{
