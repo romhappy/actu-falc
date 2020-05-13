@@ -123,12 +123,20 @@ h1{
 
 .mail{
     display: block;
-    margin:150px auto;
+    margin:150px auto 0 auto;
+}
+
+.textmail{
+    display:block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 150px;
 }
 
 footer{
     border-top: 1px solid #DCDCD7;
 }
+
 
 
 
