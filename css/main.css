@@ -115,6 +115,10 @@ article{
 
 }
 
+p{
+    line-height: 1.7;
+}
+
 
 h1{
     margin: 150px 80px 0 80px;
@@ -202,5 +206,12 @@ footer{
     .logo1,.logo2{
         padding-top: 15px;
     }
+
+    h1, h2{
+        margin: 150px 20px 20px 20px;
+        font-size: 20px;
+    }
+
+    
     
          }
