@@ -148,11 +148,10 @@ h2{
 }
 
 footer{
-    border-top: 1px solid #DCDCD7;
     display: flex;
-    margin:100px auto;
+    margin:300px auto 0 auto;
     flex-wrap: wrap;
-    padding-top: 50px;
+    padding: 50px 0;
     
 }
 
