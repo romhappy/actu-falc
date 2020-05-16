@@ -131,7 +131,7 @@ h1{
 }
 
 h2{
-    margin: 150px 80px 20px 80px;
+    margin: 150px auto 80px auto;
     font-size: 22px;
     font-weight: 200;
 }
@@ -211,7 +211,7 @@ footer{
     }
 
     h1, h2{
-        margin: 150px 20px 20px 20px;
+        margin: 50px 20px 20px 20px;
         font-size: 20px;
     }
 
