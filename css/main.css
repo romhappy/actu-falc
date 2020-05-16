@@ -151,6 +151,12 @@ footer{
     border-top: 1px solid #DCDCD7;
 }
 
+.video{
+    height:auto;
+    width:100%;
+    min-height: 500px;
+}
+
 
 
 
